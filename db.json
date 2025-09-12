@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "name": "Cappuccino",
+      "description": "Rich espresso with milk foam",
+      "category": "Beverage",
+      "price": 2.5,
+      "quantity": 15,
+      "lowStockThreshold": 5
+    },
+    {
+      "id": "p2",
+      "name": "Chicken Sandwich",
+      "description": "Grilled chicken with salad",
+      "category": "Food",
+      "price": 4.0,
+      "quantity": 8,
+      "lowStockThreshold": 5
+    }
+  ],
+  "transactions": []
+}

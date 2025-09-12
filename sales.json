@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "productId": 1,
+    "productName": "Espresso",
+    "quantity": 2,
+    "total": 30,
+    "customerName": "John Doe",
+    "date": "2025-09-10"
+  }
+]

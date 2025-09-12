@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Espresso",
+    "description": "Strong coffee",
+    "category": "Beverage",
+    "price": 15,
+    "quantity": 50,
+    "image": "chips.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Cappuccino",
+    "description": "Coffee with milk",
+    "category": "Beverage",
+    "price": 20,
+    "quantity": 30,
+    "image": "wings.jpeg"
+  }
+]
